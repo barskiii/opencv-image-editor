@@ -1,1 +1,1 @@
-# opencv-image-editor
+# OpenCV image editor
